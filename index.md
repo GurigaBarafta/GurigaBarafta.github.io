@@ -4,13 +4,12 @@
 
 ![MGS 2 artwork](https://res.cloudinary.com/cook-becker/image/fetch/q_auto:best,f_auto,w_1920,g_center/https://candb.com/site/candb/images/artwork/yoji-shinkawa-metal-gear-solid-konami.jpg)
 
-'''
+```
 ↑ ↑ ↓ ↓ ← → ← → B A
-'''
+```
+[Really important link, please watch ASAP](https://tinyurl.com/6jktchzv)
 
 ![Naked Snake smiling](https://i.pinimg.com/736x/63/f9/40/63f940c2dd8619ef0025356554c603dd.jpg)
-
-[Really important link, please watch ASAP](https://tinyurl.com/6jktchzv)
 
 - This
 - is
@@ -29,9 +28,9 @@
 
 ## Task List
 
-- [] Graduate 
-- [] Become president of the United States 
-- [] Become ruler of the world 
+- [ ] Graduate 
+- [ ] Become president of the United States 
+- [ ] Become ruler of the world 
 
 [Go to README](README.md)
 
